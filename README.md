@@ -12,13 +12,14 @@ Puto tu :v
 Lista de cosas:
 - [Enlaces](#este-es-el-ejemplo-de-un-enlace)
 - [Workflow](#workflow)
-- [Código](#as-se-pone-codigo)
+- [Código](#asi-se-pone-codigo)
 - [imagen](#imagen)
 
 ### este es el ejemplo de un enlace 
  son un ejemplo de  [enlace] (https://github.com/joshuansu0897)
 
-### Workflow (asi es como se trabaja en equipo en git)
+### Workflow 
+#####asi es como se trabaja en equipo en git
 1. pull del proyecto
 2. trabajo
 3. commit
